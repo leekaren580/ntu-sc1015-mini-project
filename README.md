@@ -21,9 +21,8 @@ This README outlines what we have accomplished in this project. If you want a mo
 5. Model 2
 6. Model 3
 7. Model 4
-8. Model 5
-9. Data Driven Insights and Conclusion
-10. References
+8. Data Driven Insights and Conclusion
+9. References
 
 ## 1. Problem Formulation
 **Question:** Can we detect phishing websites from benign ones using their respective URLs?
